@@ -1,0 +1,27 @@
+{
+  "name": "electronproject-a2ma",
+  "version": "1.0.0",
+  "description": "A2MA's first independently-driven project to sound out ElectronJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanyemaa/electronproject-a2ma.git"
+  },
+  "keywords": [
+    "a2ma",
+    "electron",
+    "electronJS"
+  ],
+  "author": "a2ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanyemaa/electronproject-a2ma/issues"
+  },
+  "homepage": "https://github.com/sanyemaa/electronproject-a2ma#readme",
+  "dependencies": {
+    "electron": "^2.0.0"
+  }
+}

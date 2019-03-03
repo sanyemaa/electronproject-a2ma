@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/sanyemaa/electronproject-a2ma#readme",
   "dependencies": {
-    "electron": "^2.0.17"
+    "electron": "^4.0.6"
   }
 }

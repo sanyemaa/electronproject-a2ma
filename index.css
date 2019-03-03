@@ -1,0 +1,38 @@
+body{
+    background: rgb(0,0,0);
+    color: aqua;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.color-options{
+    border: 2px solid firebrick;
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    background: blueviolet;
+    border-radius: 80%;
+}
+
+#game-options{
+    background: white;
+    height: 15%;
+    width: 100%;
+}
+
+#game-options button{
+    border: none;
+}
+
+#game-options button:hover{
+    background: rgb(0,0,0);
+    color: white;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+}
